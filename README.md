@@ -1,2 +1,2 @@
-# test_repository
+# algorythm
 this is repository
